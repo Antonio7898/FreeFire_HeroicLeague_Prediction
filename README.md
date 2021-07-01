@@ -1,4 +1,4 @@
-# FreeFire_HeroicLeague_Prediction
+# FreeFire_League_Prediction
 __NOTE__ : __The dataset used was created using freefire as reference__
 
 FreeFire is a well known Battle Royale game . It has league order according to which it rank players
